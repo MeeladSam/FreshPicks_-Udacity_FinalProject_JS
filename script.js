@@ -5,12 +5,12 @@ const products = [
     { name: "Carton of Cherries",     price: 4,  quantity: 0, productId: 100, image: "cherry.jpg" },
     { name: "Carton of Strawberries", price: 5,  quantity: 0, productId: 101, image: "strawberry.jpg" },
     { name: "Bag of Oranges",         price: 10, quantity: 0, productId: 102, image: "orange.jpg" },
-    { name: "Watermelon",             price: 8,  quantity: 0, productId: 103, image: "watermelon.jpg" },
-    { name: "Mango",                  price: 6,  quantity: 0, productId: 104, image: "mango.jpg" },
-    { name: "Red Grapes",             price: 7,  quantity: 0, productId: 105, image: "Rgrapes.jpg" },
-    { name: "Bananas",                price: 3,  quantity: 0, productId: 106, image: "Bananas.jpeg" },
-    { name: "Fresh Lemons",           price: 4,  quantity: 0, productId: 107, image: "Lemons.avif" },
-    { name: "Peach",                  price: 5,  quantity: 0, productId: 108, image: "Peach.jpg" },
+    { name: "Watermelon",             price: 3,  quantity: 0, productId: 103, image: "watermelon.jpg" },
+    { name: "Bag of Mango",                  price: 3,  quantity: 0, productId: 104, image: "mango.jpg" },
+    { name: "Carton of Red Grapes",             price: 7,  quantity: 0, productId: 105, image: "Rgrapes.jpg" },
+    { name: "Bunch of Bananas",                price: 6,  quantity: 0, productId: 106, image: "Bananas.jpeg" },
+    { name: "Fresh Lemons",           price: 1,  quantity: 0, productId: 107, image: "Lemons.avif" },
+    { name: "Bunch of Peach",                  price: 2,  quantity: 0, productId: 108, image: "Peach.jpg" },
 ];
 
 // =====================
