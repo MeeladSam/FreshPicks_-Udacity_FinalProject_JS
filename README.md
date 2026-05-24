@@ -2,7 +2,7 @@
 
 A simple fruit store shopping cart project built with vanilla HTML, CSS, and JavaScript.
 
-<a href="(https://meeladsam.github.io/FreshPicks_-Udacity_FinalProject_JS/">Live Demo</a>
+<a href="https://meeladsam.github.io/FreshPicks_-Udacity_FinalProject_JS/">Live Demo</a>
 
 ## 📸 Preview
 
