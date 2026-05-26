@@ -1,3 +1,5 @@
+
+
 # 🍓 FreshPicks - Fresh Fruit Market
 
 A simple fruit store shopping cart project built with vanilla HTML, CSS, and JavaScript.
